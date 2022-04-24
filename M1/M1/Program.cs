@@ -1,7 +1,6 @@
 ﻿using M1;
 
-Console.WriteLine("1.uzdevums");
-Console.WriteLine("===================");
+
 
 Phone phone1 = new Phone();
 
